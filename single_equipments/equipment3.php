@@ -29,14 +29,14 @@ require_once("includes/header.inc.php");
               <!-- Nav tabs-->
               <ul class="nav nav-tabs">
                 <li class="active"><a href="#tabs-product-1" data-toggle="tab">Description</a></li>
-                <li><a href="#tabs-product-2" data-toggle="tab">Shipping</a></li>
+                <li><a href="#tabs-product-2" data-toggle="tab">Cost &amp; It's Uses</a></li>
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>With our unique spin-balanced construction to eliminate vibration, this Faceplate is perfect for precision turning on a wide range of projects.</p>
+                  <p>About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment .</p>
                 </div>
                 <div class="tab-pane fade" id="tabs-product-2">
-                  <p>If you need more details about a nifty little lifecycle of your order's journey from the time you place your order to your new treasures arriving at your doorstep, please contact us.</p>
+                  <p>Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment .</p>
                 </div>
               </div>
             </div>
