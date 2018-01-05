@@ -43,82 +43,82 @@
               <div class="row">
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 1">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-1-120x151.png" alt="" width="120" height="151"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment1.php"><img class="product__image" src="images/product-1-120x151.png" alt="" width="120" height="151"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment1.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $137</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment1.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 2">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-2-179x141.png" alt="" width="179" height="141"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment2.php"><img class="product__image" src="images/product-2-179x141.png" alt="" width="179" height="141"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment2.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $456</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment2.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 1">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-3-157x123.png" alt="" width="157" height="123"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment3.php"><img class="product__image" src="images/product-3-157x123.png" alt="" width="157" height="123"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment3.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $256</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment3.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 2">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-4-215x157.png" alt="" width="215" height="157"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment4.php"><img class="product__image" src="images/product-4-215x157.png" alt="" width="215" height="157"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment4.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $590</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment4.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 1">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-5-121x168.png" alt="" width="121" height="168"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment5.php"><img class="product__image" src="images/product-5-121x168.png" alt="" width="121" height="168"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment5.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $344</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment5.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 2">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-6-202x148.png" alt="" width="202" height="148"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment6.php"><img class="product__image" src="images/product-6-202x148.png" alt="" width="202" height="148"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment6.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $457</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment6.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 1">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-7-219x98.png" alt="" width="219" height="98"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment7.php"><img class="product__image" src="images/product-7-219x98.png" alt="" width="219" height="98"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment7.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $565</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment7.php">details</a></div>
                   </article>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3 isotope-item" data-filter="Category 2">
                   <!-- Product-->
-                  <article class="product"> <a class="product__image-wrap" href="single-product.php"><img class="product__image" src="images/product-8-165x148.png" alt="" width="165" height="148"/></a>
+                  <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment8.php"><img class="product__image" src="images/product-8-165x148.png" alt="" width="165" height="148"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single-product.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment8.php">Equipment Name</a></p>
                       <!-- <p class="product__price">from $678</p> -->
                     </div>
-                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single-product.php">details</a></div>
+                    <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment8.php">details</a></div>
                   </article>
                 </div>
               </div>
