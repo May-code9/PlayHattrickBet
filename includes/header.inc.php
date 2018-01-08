@@ -112,7 +112,7 @@
                     </li>
                     <li class="<?php if(isset($projects)) echo $projects ?>"><a href="projects.php">Projects</a>
                     </li>
-                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="equipments.php">Equipments</a>
+                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="equipments.php">Equipment</a>
                     </li>
                     <li class="<?php if(isset($career)) echo $career ?>"><a href="careers.php">Career</a>
                     </li>

@@ -186,7 +186,7 @@ require_once("includes/header.inc.php")
               <div class="col-xs-6 col-md-2 isotope-item">
                 <!-- Thumb Zoe--><a class="thumb-zoe" href="#"><img class="thumb-zoe__image" src="images/project-4-321x524.jpg" alt="" width="321" height="524"/>
                 <div class="thumb-zoe__caption">
-                  <p class="thumb-zoe__title">Custom Solutions</p>
+                  <p class="thumb-zoe__title">Leveling</p>
                 </div></a>
               </div>
               <div class="col-xs-6 col-md-4 isotope-item">
