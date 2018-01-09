@@ -3,6 +3,7 @@
   $contact = "active";
 
   require_once("includes/header.inc.php");
+
 ?>
       <!-- Breadcrumbs-->
       <!-- <section class="breadcrumbs-custom bg-image" style="background-image: url(images/bg-image-6.jpg);">
