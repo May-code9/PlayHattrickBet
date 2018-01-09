@@ -22,7 +22,7 @@
           <div class="isotope-wrap isotope-modern-wrap">
             <!-- Section Header-->
             <div class="section__header">
-              <h4>Our Products</h4>
+              <h4>Our Equipment</h4>
               <div class="section__header-element">
                 <div class="navigation-custom">
                   <button class="button navigation-custom__toggle" data-custom-toggle=".navigation-custom__content" data-custom-toggle-hide-on-blur="true">Filter</button>

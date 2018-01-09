@@ -80,7 +80,7 @@
                 <p class="heading-8">E-mail</p>
                 <div class="unit unit-horizontal unit-spacing-xxs">
                   <div class="unit__left"><span class="icon icon-sm icon-primary mdi mdi-email-outline"></span></div>
-                  <div class="unit__body"><a href="mailto:#">nfo@okisokariari.com</a></div>
+                  <div class="unit__body"><a href="mailto:#">info@okisokariari.com</a></div>
                 </div>
               </div>
               <div class="layout-bordered__aside-item">
@@ -108,7 +108,7 @@
         <div class="rd-google-map rd-google-map__model" data-zoom="6" data-x="2.810487" data-y="10.038382">
           <ul class="map_locations">
             <li data-y="4.810487" data-x="7.038382">
-              <p>Plot 83, Tran Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria.</p>
+              <p>Plot 83, Trans Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria.</p>
             </li>
             <li data-y="4.8259538" data-x="6.9588741">
               <p>8, Ikwere Road, Port Harcourt, Rivers State, Nigeria.</p>

@@ -29,7 +29,7 @@ require_once("includes/header.inc.php");
             <button class="button navigation-custom__toggle" data-custom-toggle=".navigation-custom__content" data-custom-toggle-hide-on-blur="true">Filter</button>
             <div class="navigation-custom__content">
               <ul class="nav nav-tabs">
-                <li class="active"><a href="#tabs-production-1" data-toggle="tab">Eche</a></li>
+                <li class="active"><a href="#tabs-production-1" data-toggle="tab">Etche</a></li>
                 <li><a href="#tabs-production-2" data-toggle="tab">Naoc Locations</a></li>
                 <li><a href="#tabs-production-3" data-toggle="tab">Obukofia Internal Roads</a></li>
                 <li><a href="#tabs-production-4" data-toggle="tab">Rainbow Town</a></li>
@@ -46,7 +46,7 @@ require_once("includes/header.inc.php");
         <div class="tab-pane fade in active" id="tabs-production-1">
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main">
-              <h4>Eche</h4>
+              <h4>Etche</h4>
               <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
               <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
             </div>
