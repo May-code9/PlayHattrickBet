@@ -206,7 +206,7 @@ require_once("includes/header.inc.php")
         </div>
       </section>
 
-      <hr style="color:black">
+      <hr style="border-bottom: 1px solid #dddfe7;">
       <!-- Clients-->
       <!-- <section class="section section-md section-bottom-0 bg-white text-center">
         <div class="shell shell-wide">
