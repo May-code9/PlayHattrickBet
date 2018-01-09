@@ -105,20 +105,18 @@
 
       <!-- RD Google Map-->
       <section class="section">
-        <div class="rd-google-map rd-google-map__model" data-zoom="6" data-x="12.4532796" data-y="50.1383723">
+        <div class="rd-google-map rd-google-map__model" data-zoom="6" data-x="2.810487" data-y="10.038382">
           <ul class="map_locations">
-            <li data-y="52.6323723" data-x="-1.4732496">
-              <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
+            <li data-y="4.810487" data-x="7.038382">
+              <p>Plot 83, Tran Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria.</p>
             </li>
-            <li data-y="49.262676" data-x="10.379653">
-              <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45. </p>
+            <li data-y="4.8259538" data-x="6.9588741">
+              <p>8, Ikwere Road, Port Harcourt, Rivers State, Nigeria.</p>
             </li>
-            <li data-y="51.825426" data-x="20.272559">
-              <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
+            <li data-y="6.444387" data-x="3.4248166">
+              <p>99, Awolowo Road, Ikoyi South, Ikoyi, Lagos State, Nigeria.</p>
             </li>
-            <li data-y="52.679564" data-x="25.805651">
-              <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
-            </li>
+
           </ul>
         </div>
       </section>

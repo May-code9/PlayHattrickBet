@@ -207,11 +207,11 @@ require_once("includes/header.inc.php")
       </section>
 
       <!-- Clients-->
-      <section class="section section-md section-bottom-0 bg-white text-center">
+      <!-- <section class="section section-md section-bottom-0 bg-white text-center">
         <div class="shell shell-wide">
           <div class="range range-md-center">
             <div class="cell-lg-11">
-              <!-- Section Header-->
+
               <div class="section__header">
                 <h2>Clients</h2>
                 <div class="section__header-element"><a class="link link-md" href="contacts.php">Get a Quote</a></div>
@@ -223,10 +223,10 @@ require_once("includes/header.inc.php")
           <div class="range range-condensed range-md-reverse range-flex">
             <div class="cell-md-6 bg-gray-dark bg-image" style="background-image: url(images/parallax-5.jpg);">
               <div class="section-variant-1">
-                <!-- Owl Carousel-->
+
                 <div class="owl-carousel owl-carousel_style-3" data-items="1" data-dots="true" data-nav="true" data-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
                   <div class="item">
-                    <!-- Quote light-->
+
                     <article class="quote-light">
                       <div class="quote-light__image-wrap"><img class="quote-light__image" src="images/testimonials-1-88x88.jpg" alt="" width="88" height="88"/>
                       </div>
@@ -240,7 +240,7 @@ require_once("includes/header.inc.php")
                     </article>
                   </div>
                   <div class="item">
-                    <!-- Quote light-->
+
                     <article class="quote-light">
                       <div class="quote-light__image-wrap"><img class="quote-light__image" src="images/testimonials-2-88x88.jpg" alt="" width="88" height="88"/>
                       </div>
@@ -254,7 +254,7 @@ require_once("includes/header.inc.php")
                     </article>
                   </div>
                   <div class="item">
-                    <!-- Quote light-->
+
                     <article class="quote-light">
                       <div class="quote-light__image-wrap"><img class="quote-light__image" src="images/testimonials-3-88x88.jpg" alt="" width="88" height="88"/>
                       </div>
@@ -275,129 +275,6 @@ require_once("includes/header.inc.php")
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-      <!-- Page Footer -->
-      <footer class="footer-corporate">
-        <div class="footer-corporate__main bg-gray-7">
-          <div class="shell shell-fluid shell-condensed">
-            <div class="range range-xs-center range_xl-ten range-50 footer-corporate__range">
-              <div class="cell-xs-10 cell-sm-6 cell-md-4 cell-lg-4 cell-xl-2 footer-corporate__column">
-                <h4 class="heading-bordered">Our Offices</h4>
-                <ul class="list-md">
-                  <li>
-                    <p class="address">Head Office: Plot 83, Trans Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria</p>
-                    <p class="address">Port Harcourt Branch Office: 8 Ikwere Road, Port Harcourt, Rivers State, Nigeria.</p>
-                    <p class="address">Lagos Liaison Office: 99 Awolowo Road, Ikoyi South, Ikoyi, Lagos State, Nigeria.</p>
-                  </li>
-                </ul>
-              </div>
-              <div class="cell-xs-6 cell-sm-6 cell-md-3 cell-lg-3 footer-corporate__column">
-                <h4 class="heading-bordered">Contact</h4>
-                <!-- <ul class="list-inline-0">
-                <li>
-                <dl class="list-terms-inline">
-                <dt>Weekdays</dt>
-                <dd>8:00–20:00</dd>
-              </dl>
-            </li>
-            <li>
-            <dl class="list-terms-inline">
-            <dt>Weekends</dt>
-            <dd>Closed</dd>
-          </dl>
-        </li>
-      </ul> -->
-      <ul class="list-md">
-        <li>
-          <dl class="list-terms-inline">
-            <dt>Postal Address</dt>
-            <dd><a href="mailto:#">P. O. Box 83, Port Harcourt.</a></dd>
-          </dl>
-          <dl class="list-terms-inline">
-            <dt>Email</dt>
-            <dd><a href="mailto:#"> info@okisokariari.com</a></dd>
-          </dl>
-        </li>
-        <li>
-          <dl class="list-terms-inline">
-            <dt>Phone</dt>
-            <dd><a href="callto:#">+2348086666010 | +2348086666060</a></dd>
-          </dl>
-        </li>
-      </ul>
-    </div>
-    <div class="cell-xs-6 cell-sm-6 cell-md-3 cell-lg-3 footer-corporate__column">
-      <h4 class="heading-bordered">Latest News</h4>
-      <ul class="post-group post-light-group">
-        <li>
-          <article class="post-light">
-            <p class="post-light__title"><a href="single-post.php">The Fourth Industrial Revolution: What’s in Store for Manufacturers?</a></p>
-            <time datetime="2017">April 13, 2017</time>
-          </article>
-        </li>
-        <li>
-          <article class="post-light">
-            <p class="post-light__title"><a href="single-post.php">Design and Advanced Materials As a Driver of Innovation</a></p>
-            <time datetime="2017">March 25, 2017</time>
-          </article>
-        </li>
-      </ul>
-    </div>
-    <div class="cell-xs-4 cell-sm-6 cell-md-2 cell-lg-2 cell-xl-1 footer-corporate__column">
-      <h4 class="heading-bordered">Links</h4>
-      <ul class="list-xxs list_darker">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="about-us.php">About us</a>
-        </li>
-        <li><a href="code.php">Code of Practice</a>
-        </li>
-        <li><a href="products.php">Products</a>
-        </li>
-        <li><a href="news.php">News</a>
-        </li>
-        <li><a href="careers.php">Careers</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-</div>
-<div class="footer-corporate__aside bg-gray-8 text-center">
-  <div class="shell shell-fluid shell-condensed">
-    <div class="range range-20 range_xl-ten footer-corporate__range">
-      <div class="cell-sm-8 cell-xl-6 footer-corporate__aside-column text-sm-left">
-        <!-- Rights-->
-        <p class="rights"><span>Creator</span><span>&nbsp;&copy;&nbsp;</span><span id="copyright-year"></span>.&nbsp;<br class="veil-xs"><a class="link-underline" href="privacy-policy.php">Privacy Policy</a>
-          <!-- {%FOOTER_LINK}-->
-        </p>
-      </div>
-      <div class="cell-sm-4 cell-xl-4 footer-corporate__aside-column text-sm-right">
-        <ul class="list-inline-xxs">
-          <li><a class="icon icon-xs icon-style-modern fa fa-twitter" href="#"></a></li>
-          <li><a class="icon icon-xs icon-style-modern fa fa-facebook" href="#"></a></li>
-          <li><a class="icon icon-xs icon-style-modern fa fa-instagram" href="#"></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</footer>
-
-</div>
-<!-- Global Mailform Output-->
-<div class="snackbars" id="form-output-global"></div>
-<!-- Javascript-->
-<script src="js/core.min.js"></script>
-<script src="js/script.js"></script>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-7078796-5']);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script>
-</body><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.php?id=GTM-P9FT69"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P9FT69');</script><!-- End Google Tag Manager -->
-</html>
+      <?php require_once("includes/footer.inc.php") ?>

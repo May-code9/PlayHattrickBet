@@ -73,6 +73,11 @@
                     </li>
                     <li><a href="code.php">Code of Practice</a>
                     </li>
+                  </ul>
+                </div>
+                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                  <h4 class="heading-decorated">Useful Links</h4>
+                  <ul class="list-nav">
                     <li><a href="products.php">Products</a>
                     </li>
                     <li><a href="#">Media</a></li>
@@ -80,9 +85,8 @@
                     </li>
                   </ul>
                 </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                <!-- <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <h4 class="heading-decorated">Subscribe Now</h4>
-                  <!-- RD Mailform-->
                   <form class="rd-mailform rd-mailform_sm rd-mailform_inline" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
                     <div class="form-wrap">
                       <input class="form-input" id="footer-form-subscribe-email" type="email" name="email" data-constraints="@Email @Required">
@@ -90,7 +94,7 @@
                     </div>
                     <button class="button button-secondary" type="submit">Send</button>
                   </form>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="divider"></div>
