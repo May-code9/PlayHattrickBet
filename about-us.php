@@ -16,10 +16,63 @@
       </section> -->
       <hr style="margin: 0px">
 
+      <section class="section section-lg bg-gray-1">
+        <div class="shell">
+          <div class="range range-md-center">
+            <div class="cell-md-6 cell-lg-6">
+              <!-- Bootstrap collapse-->
+              <div class="panel-group panel-group-custom panel-group-corporate" id="accordionOne" role="tablist" aria-multiselectable="false">
+                <!-- Bootstrap panel-->
+                <div class="panel panel-custom panel-corporate">
+                  <div class="panel-heading" id="accordionOneHeading1" role="tab">
+                    <div class="panel-title">
+                      <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionOne" href="#accordionOneCollapse1" aria-controls="accordionOneCollapse1">History
+                        <div class="panel-arrow"></div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="panel-collapse collapse" id="accordionOneCollapse1" role="tabpanel" aria-labelledby="accordionOneHeading1">
+                    <div class="panel-body just">
+                      <p>O.K. ISOKARIARI & SONS (NIGERIA) LIMITED was established in 1970 as a Non-Limited Liability firm.</p>
+                      <p>Following its growth and success, the business was incorporated as a Limited Liability Company in 1972. It has over the years built a track record of efficiency, competence, real time and value added services to its varied clients. O.K. ISOKARIARI & SONS (NIGERIA) LIMITED has expanded to meet the needs of the region as the demands for improved infrastructures increase.
+                      Our reputation is based on professionalism, the capacity to plan, to design, to construct, and to maintain a variety of Engineering, Procurement and Construction projects to the satisfaction of our clients. </p>
+                      <p>We pride ourselves in our experience and expertise to mobilize and commence projects within and outside Nigeria in record time while still retaining our commitment, strength and unmatched quality service delivery.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="cell-md-6 cell-lg-6">
+              <!-- Bootstrap collapse-->
+              <div class="panel-group panel-group-custom panel-group-corporate" id="accordionOne" role="tablist" aria-multiselectable="false">
+                <!-- Bootstrap panel-->
+                <div class="panel panel-custom panel-corporate">
+                  <div class="panel-heading" id="accordionOneHeading2" role="tab">
+                    <div class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionOne" href="#accordionOneCollapse2" aria-controls="accordionOneCollapse2">Our Core Values, Vision &amp; Mission
+                        <div class="panel-arrow"></div></a>
+                    </div>
+                  </div>
+                  <div class="panel-collapse collapse" id="accordionOneCollapse2" role="tabpanel" aria-labelledby="accordionOneHeading2">
+                    <div class="panel-body just">
+                      <h4 style="margin-top:0px">Our Core Values</h4>
+                      <p style="margin-top:5px">At O.K.ISOKARIARI & SONS (NIGERIA) LIMITED, our core values are Quality, Professionalism, Team Work, Timely delivery and Integrity.</p>
+                      <h4 style="margin-top:20px">Vision</h4>
+                      <p style="margin-top:5px">Our vision is to be a preferred choice in the DELIVERY of QUALITY ENGINEERING services in Nigeria and in the West African Region.</p>
+                      <h4 style="margin-top:20px">Mission</h4>
+                      <p style="margin-top:5px">And our Mission, is to promote continuous research, innovation and good governance.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <!-- Experience since 1999-->
-      <section class="section section-md bg-white">
+      <!-- <section class="section section-md bg-white">
         <div class="container-fullwidth grid-system-outline grid-demonstration">
-          <!-- <h4 class="text-center">History</h4> -->
           <div class="row row-no-gutter">
             <div class="cell-sm-10 cell-md-6 cell-lg-12 pad-all-20 just-black">
               <h4>History</h4>
@@ -35,7 +88,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Our History -->
       <section class="section parallax-container bg-gray-dark">
