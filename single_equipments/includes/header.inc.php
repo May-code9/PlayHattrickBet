@@ -23,7 +23,7 @@
   <div id="page-loader">
     <div class="page-loader-logo">
       <div class="brand">
-        <div class="brand__name"><img src="../images/logo-141x65.png" alt="" width="141" height="65"/>
+        <div class="brand__name"><img src="../images/logo-141x65_2.png" alt="" width="141" height="65"/>
         </div>
       </div>
     </div>

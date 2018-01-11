@@ -47,7 +47,7 @@ require_once("includes/header.inc.php")
   <div class="section-layout-aside">
     <div class="section-layout-aside__item"><a class="thumb-modern" href="#"><img class="thumb-modern__image" src="images/home-creative-1-538x200.jpg" alt="" width="538" height="200"/>
       <div class="thumb-modern__caption">
-        <p class="thumb-modern__title">Engineering</p>
+        <p class="thumb-modern__title" style="color:black">Engineering</p>
       </div></a></div>
       <div class="section-layout-aside__item"><a class="thumb-modern" href="#"><img class="thumb-modern__image" src="images/home-creative-2-498x195.jpg" alt="" width="498" height="195"/>
         <div class="thumb-modern__caption">
@@ -86,8 +86,10 @@ require_once("includes/header.inc.php")
                   <div class="box-centered box-width-1" style="color: black; text-align:justify">
                     <h2><span>Experience</span><span class="object-decorated object-decorated_inline" style="max-width: 125px;"><span class="object-decorated__divider"></span><span class="heading-5">since 1972</span></span></h2>
                     <p>At O.K. ISOKARIARI & SONS (NIGERIA) LIMITED, we never stop working on a better way.  From how we communicate with our customers to how we research and develop new approaches.<br>On the beams of quality we are building dreams. We look forward to serving you for the approaching years.</p>
-                    <div class="group-md group-middle button-group"><a class="button button-darker" href="contacts.php">get a quote</a>
-                      <p>or</p><a class="button button-primary" href="#">get a brochure</a>
+                    <div class="group-md group-middle button-group">
+                      <a class="button button-darker" href="contacts.php">Contact Us</a>
+                      <p>or</p>
+                      <a class="button button-primary" href="about-us.php">Learn More</a>
                     </div>
                   </div>
                 </div>
@@ -206,23 +208,23 @@ require_once("includes/header.inc.php")
         </div>
       </section>
 
-      <hr style="border-bottom: 1px solid #dddfe7;">
+      <!-- <hr style="border-bottom: 1px solid #dddfe7;"> -->
       <!-- Clients-->
-      <!-- <section class="section section-md section-bottom-0 bg-white text-center">
+      <section class="section section-md section-bottom-0 bg-white text-center">
         <div class="shell shell-wide">
           <div class="range range-md-center">
             <div class="cell-lg-11">
 
               <div class="section__header">
                 <h2>Clients</h2>
-                <div class="section__header-element"><a class="link link-md" href="contacts.php">Get a Quote</a></div>
+                <!-- <div class="section__header-element"><a class="link link-md" href="contacts.php">Get a Quote</a></div> -->
               </div>
             </div>
           </div>
         </div>
-        <div class="shell-fluid">
+        <div class="shell-fluid" style="margin-top:0px">
           <div class="range range-condensed range-md-reverse range-flex">
-            <div class="cell-md-6 bg-gray-dark bg-image" style="background-image: url(images/parallax-5.jpg);">
+            <!-- <div class="cell-md-6 bg-gray-dark bg-image" style="background-image: url(images/parallax-5.jpg);">
               <div class="section-variant-1">
 
                 <div class="owl-carousel owl-carousel_style-3" data-items="1" data-dots="true" data-nav="true" data-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
@@ -270,12 +272,25 @@ require_once("includes/header.inc.php")
                   </div>
                 </div>
               </div>
+            </div> -->
+            <div class="cell-md-6">
+              <div class="link-block-group">
+                <a class="link-block" href="#"><img src="images/river-state-logo.png" alt="" width="161" height="76"/></a>
+                <a class="link-block" href="#"><img src="images/Saipem_logo.png" alt="" width="136" height="76"/></a>
+                <a class="link-block" href="#"><img src="images/shell-logo.png" alt="" width="151" height="76"/></a>
+                <a class="link-block" href="#"><img src="images/naoc-agip.png" alt="" width="172" height="41"/></a>
+              </div>
             </div>
             <div class="cell-md-6">
-              <div class="link-block-group"><a class="link-block" href="#"><img src="images/brand-1-176x51.png" alt="" width="176" height="51"/></a><a class="link-block" href="#"><img src="images/brand-2-138x76.png" alt="" width="138" height="76"/></a><a class="link-block" href="#"><img src="images/brand-3-143x50.png" alt="" width="143" height="50"/></a><a class="link-block" href="#"><img src="images/brand-4-172x41.png" alt="" width="172" height="41"/></a></div>
+              <div class="link-block-group">
+                <a class="link-block" href="#"><img src="images/Agip_logo.png" alt="" width="148" height="76"/></a>
+                <a class="link-block" href="#"><img src="images/ferma-logo.png" alt="" width="149" height="70"/></a>
+                <a class="link-block" href="#"><img src="images/NDDC_logo.png" alt="" width="176" height="59"/></a>
+                <a class="link-block" href="#"><img src="images/NNPC-Logo.png" alt="" width="142" height="76"/></a>
+              </div>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <?php require_once("includes/footer.inc.php") ?>

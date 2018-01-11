@@ -60,36 +60,30 @@
                     </ul>
                   </article>
                 </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4"><a class="brand" href="../index.php">
-                    <div class="brand__name"><img src="../images/logo-inverse-141x65.png" alt="" width="141" height="65"/>
+                <div class="cell-xs-10 cell-sm-6 cell-md-4"><a class="brand" href="index.php">
+                    <div class="brand__name"><img src="../images/logo-141x65_2.png" alt="" width="141" height="65"/>
                     </div></a>
                   <p class="text-small">Building and Civil Engineering Contractors.</p>
                 </div>
                 <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <h4 class="heading-decorated">Useful Links</h4>
                   <ul class="list-nav">
-                    <li><a href="../index.php">Home</a></li>
-                    <li><a href="../about-us.php">About us</a>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about-us.php">About us</a>
                     </li>
-                    <li><a href="../code.php">Code of Practice</a>
-                    </li>
-                    <li><a href="../products.php">Products</a>
-                    </li>
-                    <li><a href="#">Media</a></li>
-                    <li><a href="../careers.php">Careers</a>
+                    <li><a href="code.php">Code of Practice</a>
                     </li>
                   </ul>
                 </div>
                 <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <h4 class="heading-decorated">Subscribe Now</h4>
-                  <!-- RD Mailform-->
-                  <form class="rd-mailform rd-mailform_sm rd-mailform_inline" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
-                    <div class="form-wrap">
-                      <input class="form-input" id="footer-form-subscribe-email" type="email" name="email" data-constraints="@Email @Required">
-                      <label class="form-label" for="footer-form-subscribe-email">Enter Your E-mail</label>
-                    </div>
-                    <button class="button button-secondary" type="submit">Send</button>
-                  </form>
+                  <h4 class="heading-decorated">Useful Links</h4>
+                  <ul class="list-nav">
+                    <li><a href="products.php">Products</a>
+                    </li>
+                    <li><a href="#">Media</a></li>
+                    <li><a href="careers.php">Careers</a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>

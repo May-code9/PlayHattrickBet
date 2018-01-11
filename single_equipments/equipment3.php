@@ -20,7 +20,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__main">
         <article class="single-product">
           <div class="single-product__header">
-            <h3 class="single-product__title">Equipment</h3>
+            <h3 class="single-product__title">Man Tipping Truck</h3>
             <!-- <p class="single-product__price"><sup>$</sup><span>137</span><sup>00</sup></p> -->
           </div>
           <div class="single-product__main">

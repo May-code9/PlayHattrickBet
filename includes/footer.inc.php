@@ -61,7 +61,7 @@
                   </article>
                 </div>
                 <div class="cell-xs-10 cell-sm-6 cell-md-4"><a class="brand" href="index.php">
-                    <div class="brand__name"><img src="images/logo-inverse-141x65.png" alt="" width="141" height="65"/>
+                    <div class="brand__name"><img src="images/logo-141x65_2.png" alt="" width="141" height="65"/>
                     </div></a>
                   <p class="text-small">Building and Civil Engineering Contractors.</p>
                 </div>

@@ -23,7 +23,7 @@
   <div id="page-loader">
     <div class="page-loader-logo">
       <div class="brand">
-        <div class="brand__name"><img src="images/logo-141x65.png" alt="" width="141" height="65"/>
+        <div class="brand__name"><img src="images/logo-141x65_2.png" alt="" width="141" height="65"/>
         </div>
       </div>
     </div>
@@ -141,7 +141,7 @@
                     </li>
                     <li class="<?php if(isset($projects)) echo $projects ?>"><a href="projects.php">Projects</a>
                     </li>
-                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="equipments.php">Equipment</a>
+                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="equipment.php">Equipment</a>
                     </li>
                     <li class="<?php if(isset($career)) echo $career ?>"><a href="careers.php">Career</a>
                     </li>
