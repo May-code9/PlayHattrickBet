@@ -66,7 +66,7 @@
                   <!-- Product-->
                   <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment4.php"><img class="product__image" src="images/product-4-215x157.png" alt="" width="215" height="157"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single_equipments/equipment4.php">Dynapac Tandem Roller</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment4.php">Dozer</a></p>
                       <!-- <p class="product__price">from $590</p> -->
                     </div>
                     <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment4.php">details</a></div>
@@ -76,7 +76,7 @@
                   <!-- Product-->
                   <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment5.php"><img class="product__image" src="images/product-5-121x168.png" alt="" width="121" height="168"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single_equipments/equipment5.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment5.php">Truck</a></p>
                       <!-- <p class="product__price">from $344</p> -->
                     </div>
                     <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment5.php">details</a></div>
@@ -106,7 +106,7 @@
                   <!-- Product-->
                   <article class="product"> <a class="product__image-wrap" href="single_equipments/equipment8.php"><img class="product__image" src="images/product-8-165x148.png" alt="" width="165" height="148"/></a>
                     <div class="product__main">
-                      <p class="product__title"><a href="single_equipments/equipment8.php">Equipment Name</a></p>
+                      <p class="product__title"><a href="single_equipments/equipment8.php">Mobile Mixer</a></p>
                       <!-- <p class="product__price">from $678</p> -->
                     </div>
                     <div class="product__footer"><a class="button button-xs button-gray-2" href="single_equipments/equipment8.php">details</a></div>
@@ -115,14 +115,14 @@
               </div>
             </div>
             <!-- Pagination-->
-            <ul class="pagination-custom">
+            <!-- <ul class="pagination-custom">
               <li class="pagination-control"><a href="#">Prev</a></li>
               <li><a href="#">1</a></li>
               <li><a href="#">2</a></li>
               <li class="active"><a href="#">3</a></li>
               <li><a href="#">4</a></li>
               <li class="pagination-control"><a href="#">Next</a></li>
-            </ul>
+            </ul> -->
           </div>
         </div>
       </section>

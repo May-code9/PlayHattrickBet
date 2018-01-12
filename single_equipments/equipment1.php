@@ -50,8 +50,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <div class="group group-buttons group-middle"><a class="button button-darker" href="contacts.php">get a quote</a>
-              <p>or</p><a class="button button-primary" href="#">get price list</a>
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
+              <!-- <p>or</p><a class="button button-primary" href="#">get price list</a> -->
             </div>
           </div>
         </article>

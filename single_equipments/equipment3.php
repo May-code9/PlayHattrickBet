@@ -29,19 +29,24 @@ require_once("includes/header.inc.php");
               <!-- Nav tabs-->
               <ul class="nav nav-tabs">
                 <li class="active"><a href="#tabs-product-1" data-toggle="tab">Description</a></li>
-                <li><a href="#tabs-product-2" data-toggle="tab">Cost &amp; It's Uses</a></li>
+                <!-- <li><a href="#tabs-product-2" data-toggle="tab">Cost &amp; It's Uses</a></li> -->
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment About Equipment .</p>
+                  <p>
+                    <span class="just">Model: </span><br>MERCEDES 911, MAN 33.360, MAN TGA 26.39A, MAN FE360A	<br>
+                    <span class="just">Number Owned: </span><br>8 <br>
+                    <span class="just">Capacity: </span><br>MAX PAYLOAD: 19030kg, LIFTING CAP. : 35000kg, 50000kg, 10 TONS	<br>
+                    <span class="just">Specification: </span><br>TIPPER
+                  </p>
                 </div>
-                <div class="tab-pane fade" id="tabs-product-2">
+                <!-- <div class="tab-pane fade" id="tabs-product-2">
                   <p>Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment .</p>
-                </div>
+                </div> -->
               </div>
             </div>
-            <div class="group group-buttons group-middle"><a class="button button-darker" href="contacts.php">get a quote</a>
-              <p>or</p><a class="button button-primary" href="#">get price list</a>
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
+              <!-- <p>or</p><a class="button button-primary" href="#">get price list</a> -->
             </div>
           </div>
         </article>

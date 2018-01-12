@@ -20,7 +20,7 @@ require_once("includes/header.inc.php");
             <div class="layout-horizontal__main">
               <article class="single-product">
                 <div class="single-product__header">
-                  <h3 class="single-product__title">Dynapac Tandem Roller</h3>
+                  <h3 class="single-product__title">Dozer</h3>
                   <!-- <p class="single-product__price"><sup>$</sup><span>137</span><sup>00</sup></p> -->
                 </div>
                 <div class="single-product__main">
@@ -34,15 +34,12 @@ require_once("includes/header.inc.php");
                     <div class="tab-content">
                       <div class="tab-pane fade in active" id="tabs-product-1">
                         <p>
-                          <span class="just">Model: </span><br>DYNAPAC CA 250D, CP 221, CC 222 CHF, CG 233 HF, LP6500<br>
-                          HAMM AG D-95643, BOMAG BW65H, BOMAG BW 9AD<br>
-                          <span class="just">Number Owned: </span><br>11 <br>
-                          <span class="just">Capacity: </span><br>OPERATING WEIGHT: 10800kg, 8300kg, 7180kg, 757kg<br>
-                          CENTRIFUGAL FORCE: 246kN, 78kN <br>
-                          ENGINE POWER: 6.8kW, 98 kW, 5.3kW, 62kW <br>
-                          <span class="just">Specification: </span><br>VIBRATORY SMOOTH DRUM ROLLER, HAND ROLLER <br>
-                          VIBRATORY HAND ROLLER, STEEL ROLLER, <br>
-                          PNEUMATIC TYRED ROLLER, COMBINATION ROLLER
+                          <span class="just">Model: </span><br>D8K, D8R, D7H, D7R, D6H LGP, D6D, D6R LGP, D3B<br>
+                          <span class="just">Number Owned: </span><br>15 <br>
+                          <span class="just">Capacity: </span><br>OPERATING WEIGHT: 31980kg, 33498kg, 24195kg<br>
+                          OPERATING WEIGHT: 24584kg, 19665kg, 9235kg, 20502kg, 6877kg <br>
+                          BLADE CAPACITY: 3.7m3, 3.3m3, 3.7m3, 1.3m3 <br>
+                          <span class="just">Specification: </span><br>CRAWLER TRACTOR <br>
                         </p>
                       </div>
                       <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -50,8 +47,8 @@ require_once("includes/header.inc.php");
                       </div> -->
                     </div>
                   </div>
-                  <div class="group group-buttons group-middle"><a class="button button-darker" href="contacts.php">get a quote</a>
-                    <p>or</p><a class="button button-primary" href="#">get price list</a>
+                  <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
+                    <!-- <p>or</p><a class="button button-primary" href="#">get price list</a> -->
                   </div>
                 </div>
               </article>
