@@ -4,16 +4,7 @@ $projects = "active";
 
 require_once("includes/header.inc.php");
 ?>
-<!-- Breadcrumbs-->
-<!-- <section class="breadcrumbs-custom bg-image" style="background-image: url(images/bg-image-1.jpg);">
-<div class="shell">
-<h2 class="breadcrumbs-custom__title">Production</h2>
-<ul class="breadcrumbs-custom__path">
-<li><a href="index.php">Home</a></li>
-<li class="active">Production</li>
-</ul>
-</div>
-</section> -->
+
 <hr style="margin:0px">
 
 <!-- Our production-->
@@ -34,7 +25,7 @@ require_once("includes/header.inc.php");
                 <li><a href="#tabs-production-3" data-toggle="tab">Obukofia Internal Roads</a></li>
                 <li><a href="#tabs-production-4" data-toggle="tab">Rainbow Town</a></li>
                 <li><a href="#tabs-production-5" data-toggle="tab">Recreational Centre</a></li>
-                <li><a href="#tabs-production-6" data-toggle="tab">Saipem Base</a></li>
+                <!-- <li><a href="#tabs-production-6" data-toggle="tab">Saipem Base</a></li> -->
                 <li><a href="#tabs-production-7" data-toggle="tab">Town MKT</a></li>
               </ul>
             </div>
@@ -45,10 +36,17 @@ require_once("includes/header.inc.php");
       <div class="tab-content">
         <div class="tab-pane fade in active" id="tabs-production-1">
           <div class="layout-horizontal layout-horizontal_md-reverse">
-            <div class="layout-horizontal__main">
+            <div class="layout-horizontal__main just">
               <h4>Etche</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <p>RIVERS STATE FOOTBALL COLLEGE OF SPORTS</p>
+              <ul class="list-style-pad ">
+                <li class="list-allow">Administrative Building</li>
+                <li class="list-allow">Classroom Building </li>
+                <li class="list-allow">Hostel Building</li>
+                <li class="list-allow">Vocational Training Centre Building</li>
+                <li class="list-allow">Cafeteria Building</li>
+              </ul>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">
@@ -114,8 +112,20 @@ require_once("includes/header.inc.php");
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main">
               <h4>Naoc Locations</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <br>
+              <ul class="list-style-pad just">
+                <li class="list-allow">Cellar Pits</li>
+                <li class="list-allow">Cellar Slabs</li>
+                <li class="list-allow">Waste Pit</li>
+                <li class="list-allow">Drain</li>
+                <li class="list-allow">Early Production Drain (E.P.D)</li>
+                <li class="list-allow">Cover Slabs</li>
+                <li class="list-allow">Surface Slabs (Surfacing)</li>
+                <li class="list-allow">Borehole</li>
+                <li class="list-allow">Burning Pit</li>
+                <li class="list-allow">Fence Work</li>
+              </ul>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">
@@ -169,10 +179,11 @@ require_once("includes/header.inc.php");
         </div>
         <div class="tab-pane fade" id="tabs-production-3">
           <div class="layout-horizontal layout-horizontal_md-reverse">
-            <div class="layout-horizontal__main">
+            <div class="layout-horizontal__main just">
               <h4>Obukofia Internal Roads</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <p>CONSTRUCTION OF OBOKOFIA INTERNAL / RING ROADS PROJECT – OHAJI/EGHEMA LGA, IMO STATE</p>
+              <p>It involves clearing, stripping, laterite sub-base, crushed rock base course and simple layer wearing course asphalt surfacing. There were drainage and culverts in the project.</p>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">
@@ -276,10 +287,19 @@ require_once("includes/header.inc.php");
         </div>
         <div class="tab-pane fade" id="tabs-production-4">
           <div class="layout-horizontal layout-horizontal_md-reverse">
-            <div class="layout-horizontal__main">
+            <div class="layout-horizontal__main just">
               <h4>Rainbow Town</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <p>CIVIL INFRASTRUCTURE</p>
+              <ul class="list-style-pad">
+                <li class="list-allow">Drainage &amp; Cover Slab</li>
+                <li class="list-allow">Road Work – Earthwork, Stabilization Stone base, Stone dusting &amp; Interlocking</li>
+                <li class="list-allow">Horticultural Work</li>
+                <li class="list-allow">Construction of Concrete Manholes</li>
+                <li class="list-allow">Laying of Kerbs and Interlocking Stones</li>
+                <li class="list-allow">Laying of Mechanical &amp; Electrical Road Crossing Sleeves</li>
+                <li class="list-allow">Construction of Concrete Walkways</li>
+              </ul>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">
@@ -343,10 +363,11 @@ require_once("includes/header.inc.php");
         </div>
         <div class="tab-pane fade" id="tabs-production-5">
           <div class="layout-horizontal layout-horizontal_md-reverse">
-            <div class="layout-horizontal__main">
+            <div class="layout-horizontal__main just">
               <h4>Recreational Centre</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <p>CONSTRUCTION OF RECREATIONAL CENTRE AT EBOCHA NEWBASE RESIDENTIAL</p>
+              <p>Carry out building &amp; external works for the recreational centre which involves an indoor sports centre, basketball and lawn tennis court</p>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">
@@ -408,7 +429,7 @@ require_once("includes/header.inc.php");
             </div>
           </div>
         </div>
-        <div class="tab-pane fade" id="tabs-production-6">
+        <!--<div class="tab-pane fade" id="tabs-production-6">
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main">
               <h4>Saipem Base</h4>
@@ -524,13 +545,22 @@ require_once("includes/header.inc.php");
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="tab-pane fade" id="tabs-production-7">
           <div class="layout-horizontal layout-horizontal_md-reverse">
-            <div class="layout-horizontal__main">
+            <div class="layout-horizontal__main just">
               <h4>Town MKT</h4>
-              <p>Location Location Location Location Location Location Location Location Location Location Location Location Location Location </p>
-              <p>Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details Details </p><a class="button button-primary" href="products.php">get the product catalog</a>
+              <p>RECONSTRUCTION OF ULTRA MODERN TOWN MARKET BOROKIRI </p>
+              <ul class="list-style-pad">
+                <li class="list-allow">4 Banks</li>
+                <li class="list-allow">4 Toilets (Male & Female)</li>
+                <li class="list-allow">50,000 & 100,000 litres water tank Capacities</li>
+                <li class="list-allow">Firefighting facilities (Hose reels & Hydrants, Smoke detectors)</li>
+                <li class="list-allow">Fire Station Building</li>
+                <li class="list-allow">Paved Environment & Parking Lots</li>
+                <li class="list-allow">Waste Building</li>
+              </ul>
+              <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
             <div class="layout-horizontal__aside">
               <div class="slick-slider-vertical">

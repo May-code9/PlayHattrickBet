@@ -4,16 +4,6 @@
 
   require_once("includes/header.inc.php")
 ?>
-      <!-- Breadcrumbs-->
-      <!-- <section class="breadcrumbs-custom bg-image" style="background-image: url(images/bg-image-1.jpg);">
-        <div class="shell">
-          <h2 class="breadcrumbs-custom__title">About Us</h2>
-          <ul class="breadcrumbs-custom__path">
-            <li><a href="index.php">Home</a></li>
-            <li class="active">About Us</li>
-          </ul>
-        </div>
-      </section> -->
       <hr style="margin: 0px">
 
       <section class="section section-lg bg-gray-1">
@@ -186,11 +176,11 @@
             <div class="section__header-element"><a class="link link-medium" href="contacts.php">Contact Us</a></div>
           </div>
           <div class="range range-30">
-            <div class="cell-sm-6 cell-md-4">
+            <div class="cell-sm-6 cell-md-3">
               <!-- Card creative-->
               <article class="card-creative">
                 <div class="card-creative__header">
-                  <!--<img src="images/top-management-1-115x119.jpg" alt="" width="115" height="119"/>-->
+                  <img src="images/top-management-1-660x630.png" alt="" width="660" height="630"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
                   <p class="card-creative__title">Firstname Surname</p>
@@ -199,11 +189,11 @@
                 </div>
               </article>
             </div>
-            <div class="cell-sm-6 cell-md-4">
+            <div class="cell-sm-6 cell-md-3">
               <!-- Card creative-->
               <article class="card-creative">
                 <div class="card-creative__header">
-                  <!--<img src="images/top-management-2-115x119.jpg" alt="" width="115" height="119"/>-->
+                  <img src="images/top-management-2-660x648.png" alt="" width="501" height="576"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
                   <p class="card-creative__title">Firstname Surname</p>
@@ -212,11 +202,24 @@
                 </div>
               </article>
             </div>
-            <div class="cell-sm-6 cell-md-4">
+            <div class="cell-sm-6 cell-md-3">
               <!-- Card creative-->
               <article class="card-creative">
                 <div class="card-creative__header">
-                  <!--<img src="images/top-management-3-115x119.jpg" alt="" width="115" height="119"/>-->
+                  <img src="images/top-management-2-115x119.png" alt="" width="515" height="570"/>
+                </div>
+                <div class="card-creative__main" data-fixed-height="">
+                  <p class="card-creative__title">Firstname Surname</p>
+                  <p class="card-creative__subtitle">Position</p>
+                  <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div>
+                </div>
+              </article>
+            </div>
+            <div class="cell-sm-6 cell-md-3">
+              <!-- Card creative-->
+              <article class="card-creative">
+                <div class="card-creative__header">
+                  <img src="images/top-management-3-115x119.png" alt="" width="515" height="570"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
                   <p class="card-creative__title">Firstname Surname</p>
