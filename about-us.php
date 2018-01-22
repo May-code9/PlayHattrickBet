@@ -60,26 +60,6 @@
         </div>
       </section>
 
-      <!-- Experience since 1999-->
-      <!-- <section class="section section-md bg-white">
-        <div class="container-fullwidth grid-system-outline grid-demonstration">
-          <div class="row row-no-gutter">
-            <div class="cell-sm-10 cell-md-6 cell-lg-12 pad-all-20 just-black">
-              <h4>History</h4>
-              <p>O.K. ISOKARIARI & SONS (NIGERIA) LIMITED was established in 1970 as a Non-Limited Liability firm.</p>
-              <p>Following its growth and success, the business was incorporated as a Limited Liability Company in 1972. It has over the years built a track record of efficiency, competence, real time and value added services to its varied clients. O.K. ISOKARIARI & SONS (NIGERIA) LIMITED has expanded to meet the needs of the region as the demands for improved infrastructures increase.
-              Our reputation is based on professionalism, the capacity to plan, to design, to construct, and to maintain a variety of Engineering, Procurement and Construction projects to the satisfaction of our clients. </p>
-              <p>We pride ourselves in our experience and expertise to mobilize and commence projects within and outside Nigeria in record time while still retaining our commitment, strength and unmatched quality service delivery.</p>
-              <hr>
-              <h4>Our Core Values, Vision &amp; Mission</h4>
-              <p>At O.K.ISOKARIARI & SONS (NIGERIA) LIMITED, our core values are Quality, Professionalism, Team Work, Timely delivery and Integrity.
-                Our vision is to be a preferred choice in the DELIVERY of QUALITY ENGINEERING services in Nigeria and in the West African Region.
-                And our Mission, is to promote continuous research, innovation and good governance.</p>
-            </div>
-          </div>
-        </div>
-      </section> -->
-
       <!-- Our History -->
       <section class="section parallax-container bg-gray-dark">
         <div class="material-parallax"><img src="images/parallax-2.jpg" alt=""/></div>
@@ -175,6 +155,24 @@
             <h4>Top Management</h4>
             <div class="section__header-element"><a class="link link-medium" href="contacts.php">Contact Us</a></div>
           </div>
+          <br>
+          <div class="cell-md-10 cell-lg-7">
+            <div class="panel-group panel-group-custom panel-group-corporate" id="accordionOne" role="tablist" aria-multiselectable="false">
+              <div class="panel panel-custom panel-corporate">
+                <div class="panel-heading" id="accordionOneHeading3" role="tab">
+                  <div class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionOne" href="#accordionOneCollapse3" aria-controls="accordionOneCollapse3">About Top Management
+                    <div class="panel-arrow"></div></a>
+                  </div>
+                </div>
+                <div class="panel-collapse collapse" id="accordionOneCollapse3" role="tabpanel" aria-labelledby="accordionOneHeading3">
+                  <div class="panel-body">
+                    <p class="just">O.K. ISOKARIARI & SONS (NIGERIA) LIMITED is managed by a team of Directors and boasts of a dedicated body of staff, to meet the growing needs of the region as the demands for improved services increase. Our work force enables us thrive with our capacities built over the years.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+
           <div class="range range-30">
             <div class="cell-sm-6 cell-md-3">
               <!-- Card creative-->
@@ -183,9 +181,9 @@
                   <img src="images/top-management-1-660x630.png" alt="" width="660" height="630"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
-                  <p class="card-creative__title">Firstname Surname</p>
-                  <p class="card-creative__subtitle">Position</p>
-                  <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div>
+                  <p class="card-creative__title">OBELEMA ISOKARIARI</p>
+                  <p class="card-creative__subtitle">Managing Director</p>
+                  <!-- <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div> -->
                 </div>
               </article>
             </div>
@@ -196,9 +194,9 @@
                   <img src="images/top-management-2-660x648.png" alt="" width="501" height="576"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
-                  <p class="card-creative__title">Firstname Surname</p>
-                  <p class="card-creative__subtitle">Position</p>
-                  <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div>
+                  <p class="card-creative__title">EHINLAIYE ONIMISI</p>
+                  <p class="card-creative__subtitle">General Manager</p>
+                  <!-- <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div> -->
                 </div>
               </article>
             </div>
@@ -209,9 +207,9 @@
                   <img src="images/top-management-2-115x119.png" alt="" width="515" height="570"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
-                  <p class="card-creative__title">Firstname Surname</p>
-                  <p class="card-creative__subtitle">Position</p>
-                  <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div>
+                  <p class="card-creative__title">KRISHNASWAMY SURESH</p>
+                  <p class="card-creative__subtitle">Technical Manager</p>
+                  <!-- <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div> -->
                 </div>
               </article>
             </div>
@@ -222,9 +220,9 @@
                   <img src="images/top-management-3-115x119.png" alt="" width="515" height="570"/>
                 </div>
                 <div class="card-creative__main" data-fixed-height="">
-                  <p class="card-creative__title">Firstname Surname</p>
-                  <p class="card-creative__subtitle">Position</p>
-                  <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div>
+                  <p class="card-creative__title">KUMAR ANIL</p>
+                  <p class="card-creative__subtitle">Workshop &amp; Fleet Manager </p>
+                  <!-- <div class="card-creative__element"><a href="mailto:#">info@demolink.org</a></div> -->
                 </div>
               </article>
             </div>

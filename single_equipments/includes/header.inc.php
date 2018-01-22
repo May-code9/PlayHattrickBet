@@ -53,14 +53,6 @@
                       </div>
                     </div>
                   </li>
-                  <!-- <li>
-                    <div class="unit unit-spacing-xxs unit-horizontal">
-                      <div class="unit__left"><span class="icon icon-sm icon-primary fl-bigmug-line-circular220"></span></div>
-                      <div class="unit__body">
-                        <p>Certified ISO 9001:2008</p>
-                      </div>
-                    </div>
-                  </li> -->
                 </ul>
               </div>
               <div class="rd-navbar-aside__item">
@@ -106,7 +98,33 @@
                     <li class="<?php if(isset($about)) echo $about ?>"><a href="../about-us.php">About Us</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="../code.php">Code of Practice</a>
+                        <li><a href="../Appreciation.php">Appreciation</a>
+                        </li>
+                        <li><a href="#">Code of Practice</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Health Safety & Environment.php">Commitment to Health, Safety &amp; Environment</a>
+                            </li>
+                            <li><a href="../Alcohol Drug & Smoking Policy.php">Alcohol, Drug & Smoking Policy</a>
+                            </li>
+                            <li><a href="../Seat Belt & Access Control Policy.php">Seat Belt &amp; Access Control Policy</a>
+                            </li>
+                            <li><a href="../Security Policy.php">Security Policy</a>
+                            </li>
+                            <li><a href="../Community Affairs Policy.php">Community Affairs Policy</a>
+                            </li>
+                            <li><a href="../PPE & Waste Management Policy.php">PPE, Waste Management & Control Policy</a>
+                            </li>
+                            <li><a href="../Cashes Policy.php">Cashes Policy</a>
+                            </li>
+                            <li><a href="../Business Continuity Plan Policy Statement.php">Business Continuity Plan Policy Statement</a>
+                            </li>
+                            <li><a href="../Quality Assurance Policy Statement.php">Quality Assurance Policy Statement</a>
+                            </li>
+                            <li><a href="../Nigerian Local Content Development Policy.php">Nigerian Local Content Development Policy</a>
+                            </li>
+                            <li><a href="../Anti-Corruption & Bribery Compliance Policy.php">Anti-Corruption/Bribery Compliance Policy</a>
+                            </li>
+                          </ul>
                         </li>
                       </ul>
                     </li>

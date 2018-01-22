@@ -53,14 +53,6 @@
                       </div>
                     </div>
                   </li>
-                  <!-- <li>
-                    <div class="unit unit-spacing-xxs unit-horizontal">
-                      <div class="unit__left"><span class="icon icon-sm icon-primary fl-bigmug-line-circular220"></span></div>
-                      <div class="unit__body">
-                        <p>Certified ISO 9001:2008</p>
-                      </div>
-                    </div>
-                  </li> -->
                 </ul>
               </div>
               <div class="rd-navbar-aside__item">
@@ -134,9 +126,6 @@
                             </li>
                           </ul>
                         </li>
-                        <li><a href="#">Nigerian Content</a></li>
-                        <li><a href="#">Social Responsibility</a></li>
-                        <li><a href="#">Top Management</a></li>
                       </ul>
                     </li>
                     <li class="<?php if(isset($projects)) echo $projects ?>"><a href="projects.php">Projects</a>
