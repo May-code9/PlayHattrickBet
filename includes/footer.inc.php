@@ -110,9 +110,9 @@
                     <li>
                       <p>Follow Us</p>
                     </li>
-                    <li><a class="icon icon-xs icon-style-modern fa fa-twitter" href="#"></a></li>
-                    <li><a class="icon icon-xs icon-style-modern fa fa-facebook" href="#"></a></li>
-                    <li><a class="icon icon-xs icon-style-modern fa fa-instagram" href="#"></a></li>
+                    <!-- <li><a class="icon icon-xs icon-style-modern fa fa-twitter" href="#"></a></li> -->
+                    <li><a class="icon icon-xs icon-style-modern fa fa-facebook" href="https://web.facebook.com/Okisokariari-Sons-Nig-Limited-345780822571400/" target="_blank"></a></li>
+                    <li><a class="icon icon-xs icon-style-modern fa fa-instagram" href="https://www.instagram.com/okisokariari/" target="_blank"></a></li>
                   </ul>
                 </div>
               </div>

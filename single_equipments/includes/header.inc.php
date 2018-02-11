@@ -130,7 +130,60 @@
                     </li>
                     <li class="<?php if(isset($projects)) echo $projects ?>"><a href="../projects.php">Projects</a>
                     </li>
-                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="../equipments.php">Equipments</a>
+                    <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="#">Equipment</a>
+                      <ul class="rd-navbar-dropdown">
+                        <li><a href="../Loader.php">Loaders</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Loader.php#Track">Track Loader</a></li>
+                            <li><a href="../Loader.php#Wheel">Wheel Loader</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="../Backhoe.php">Backhoe</a>
+                        </li>
+                        <li><a href="../Bull Dozers.php">Bull Dozers</a>
+                        </li>
+                        <li><a href="../Motor Graders.php">Motor Graders</a>
+                        </li>
+                        <li><a href="#">Excavators</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Amphibious Excavator.php">Amphibious Excavator</a></li>
+                            <li><a href="../Track Excavator.php">Track Excavator</a></li>
+                            <li><a href="../Wheel Excavator.php">Wheel Excavator</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="../Roller Compactor.php">Roller Compactor</a>
+                        </li>
+                        <li><a href="../Dumpers.php">Dumpers</a>
+                        </li>
+                        <li><a href="../Pavers.php">Pavers</a>
+                        </li>
+                        <li><a href="../Fork Lifts, Cranes, and Telescopic Handlers.php">Fork Lifts, Cranes, and Telescopic Handlers</a>
+                        </li>
+                        <li><a href="../Concrete Batching Plants.php">Concrete Batching Plants</a>
+                        </li>
+                        <li><a href="#">Concrete Pumps</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Static.php">Static Concrete Pumps</a></li>
+                            <li><a href="../Mobile.php">Mobile Concrete Pumps</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="#">Trucks</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Articulated Dump Trucks.php">Articulated Dump Trucks</a></li>
+                            <li><a href="../Flat Bed.php">	Flat Bed</a></li>
+                            <li><a href="../Low Bed.php">	Low Bed</a></li>
+                            <li><a href="../Self Loading.php">	Self Loading</a></li>
+                            <li><a href="../Tankers.php">Tankers</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="#">Concrete Mixer</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="../Static.php">Static Concrete Mixer</a></li>
+                            <li><a href="../Self Loading.php">Self Loading Concrete Mixer</a></li>
+                            <li><a href="../Concrete Mixer.php">Concrete Mixer Trucks</a></li>
+                          </ul>
+                        </li>
+                      </ul>
                     </li>
                     <li class="<?php if(isset($career)) echo $career ?>"><a href="../careers.php">Career</a>
                     </li>
