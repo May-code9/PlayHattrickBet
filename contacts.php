@@ -63,10 +63,8 @@
               <div class="layout-bordered__aside-item">
                 <p class="heading-8">Get social </p>
                 <ul class="list-inline-xs">
-                  <li><a class="icon icon-sm icon-default fa fa-facebook" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-default fa fa-twitter" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-default fa fa-google" href="#"></a></li>
-                  <li><a class="icon icon-sm icon-default fa fa-youtube" href="#"></a></li>
+                  <li><a class="icon icon-sm icon-default fa fa-facebook" href="https://web.facebook.com/Okisokariari-Sons-Nig-Limited-345780822571400/" target="_blank"></a></li>
+                  <li><a class="icon icon-sm icon-default fa fa-twitter" href="https://www.instagram.com/okisokariari/" target="_blank"></a></li>
                 </ul>
               </div>
               <div class="layout-bordered__aside-item">
@@ -79,7 +77,7 @@
               <div class="layout-bordered__aside-item">
                 <p class="heading-8">E-mail</p>
                 <div class="unit unit-horizontal unit-spacing-xxs">
-                  <div class="unit__left"><span class="icon icon-sm icon-primary mdi mdi-email-outline"></span></div>
+                  <div class="unit__left"><span class="icon icon-sm icon-primary fa fa-envelope"></span></div>
                   <div class="unit__body"><a href="mailto:#">info@okisokariari.com</a></div>
                 </div>
               </div>
