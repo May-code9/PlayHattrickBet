@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/backhoe.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A backhoe, also called a rear actor or back actor, is a piece of excavating equipment or digger consisting of a digging bucket on the end of a two-part articulated arm. They are typically mounted on the back of a tractor or front loader, the latter forming a 'backhoe loader' (colloquially known as a JCB in Ireland and UK). The section of the arm closest to the vehicle is known as the boom, and the section which carries the bucket is known as the dipper or dipper-stick, terms derived from steam shovels). The boom is generally attached to the vehicle through a pivot known as the king-post, which allows the arm to pivot left and right, usually through a total of around 180–200 degrees.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Backhoe" target="_blank" >Learn More</a>
+            </div>
           </div>
         </article>
       </div>

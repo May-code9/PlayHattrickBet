@@ -47,7 +47,7 @@ require_once("includes/header.inc.php")
   <div class="section-layout-aside">
     <div class="section-layout-aside__item"><a class="thumb-modern" href="#"><img class="thumb-modern__image" src="images/home-creative-1-538x200.jpg" alt="" width="538" height="200"/>
       <div class="thumb-modern__caption">
-        <p class="thumb-modern__title" style="color:black">Engineering</p>
+        <p class="thumb-modern__title">Engineering</p>
       </div></a></div>
       <div class="section-layout-aside__item"><a class="thumb-modern" href="#"><img class="thumb-modern__image" src="images/home-creative-2-498x195.jpg" alt="" width="498" height="195"/>
         <div class="thumb-modern__caption">
@@ -136,7 +136,7 @@ require_once("includes/header.inc.php")
                   <div class="list-blocks__item-inner">
                     <article class="box-counter-modern">
                       <div class="box-counter-modern__wrap"><span>#</span><span class="big">01</span></div>
-                      <p class="box-counter-modern__title">Constructors in Nigeria</p>
+                      <p class="box-counter-modern__title">Service Rating</p>
                     </article>
                   </div>
                 </li>

@@ -132,17 +132,26 @@
                     </li>
                     <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="#">Equipment</a>
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="Loader.php">Loaders</a>
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="Loader.php#Track">Track Loader</a></li>
-                            <li><a href="Loader.php#Wheel">Wheel Loader</a></li>
-                          </ul>
-                        </li>
                         <li><a href="Backhoe.php">Backhoe</a>
                         </li>
-                        <li><a href="Bull Dozers.php">Bull Dozers</a>
+                        <li><a href="Bulldozer.php">Bulldozer</a>
                         </li>
-                        <li><a href="Motor Graders.php">Motor Graders</a>
+                        <li><a href="Concrete Batching Plants.php">Concrete Batching Plants</a>
+                        </li>
+                        <li><a href="Concrete Mixer.php">Concrete Mixer</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="Concrete Mixer.php#Static">Static Concrete Mixer</a></li>
+                            <li><a href="Concrete Mixer.php#Self">Self Loading Concrete Mixer</a></li>
+                            <li><a href="Concrete Mixer.php#Trucks">Concrete Mixer Trucks</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="Concrete Pumps.php">Concrete Pumps</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="Concrete Pumps.php#Static">Static Concrete Pumps</a></li>
+                            <li><a href="Concrete Pumps.php#Mobile">Mobile Concrete Pumps</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="Dumpers.php">Dumpers</a>
                         </li>
                         <li><a href="Excavators.php">Excavators</a>
                           <ul class="rd-navbar-dropdown">
@@ -151,21 +160,19 @@
                             <li><a href="Excavators.php#Wheel">Wheel Excavator</a></li>
                           </ul>
                         </li>
-                        <li><a href="Roller Compactor.php">Roller Compactor</a>
+                        <li><a href="Lifts Cranes Handlers.php">Fork Lifts, Cranes, and Telescopic Handlers</a>
                         </li>
-                        <li><a href="Dumpers.php">Dumpers</a>
+                        <li><a href="Loader.php">Loaders</a>
+                          <ul class="rd-navbar-dropdown">
+                            <li><a href="Loader.php#Track">Track Loader</a></li>
+                            <li><a href="Loader.php#Wheel">Wheel Loader</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="Motor Graders.php">Motor Graders</a>
                         </li>
                         <li><a href="Pavers.php">Pavers</a>
                         </li>
-                        <li><a href="Lifts Cranes Handlers.php">Fork Lifts, Cranes, and Telescopic Handlers</a>
-                        </li>
-                        <li><a href="Concrete Batching Plants.php">Concrete Batching Plants</a>
-                        </li>
-                        <li><a href="Concrete Pumps.php">Concrete Pumps</a>
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="Concrete Pumps.php#Static">Static Concrete Pumps</a></li>
-                            <li><a href="Concrete Pumps.php#Mobile">Mobile Concrete Pumps</a></li>
-                          </ul>
+                        <li><a href="Roller Compactor.php">Roller Compactor</a>
                         </li>
                         <li><a href="Trucks.php">Trucks</a>
                           <ul class="rd-navbar-dropdown">
@@ -173,13 +180,6 @@
                             <li><a href="Trucks.php#Flat">Flat Bed</a></li>
                             <li><a href="Trucks.php#Low">Low Bed</a></li>
                             <li><a href="Trucks.php#Tankers">Tankers</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="Concrete Mixer.php">Concrete Mixer</a>
-                          <ul class="rd-navbar-dropdown">
-                            <li><a href="Concrete Mixer.php#Static">Static Concrete Mixer</a></li>
-                            <li><a href="Concrete Mixer.php#Self">Self Loading Concrete Mixer</a></li>
-                            <li><a href="Concrete Mixer.php#Trucks">Concrete Mixer Trucks</a></li>
                           </ul>
                         </li>
                       </ul>

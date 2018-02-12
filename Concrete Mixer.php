@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Static-Concrete-Mixer.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A concrete mixer (often mistakenly called a cement mixer) is a device that homogeneously combines cement, aggregate such as sand or gravel, and water to form concrete. A typical concrete mixer uses a revolving drum to mix the components. For smaller volume works portable concrete mixers are often used so that the concrete can be made at the construction site, giving the workers ample time to use the concrete before it hardens. An alternative to a machine is mixing concrete by hand. This is usually done in a wheelbarrow; however, several companies have recently begun to sell modified tarps for this purpose.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Concrete_mixer" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -53,7 +53,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/self-loading-concrete-mixer.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -74,17 +74,17 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A concrete mixer (often mistakenly called a cement mixer) is a device that homogeneously combines cement, aggregate such as sand or gravel, and water to form concrete. A typical concrete mixer uses a revolving drum to mix the components. For smaller volume works portable concrete mixers are often used so that the concrete can be made at the construction site, giving the workers ample time to use the concrete before it hardens. An alternative to a machine is mixing concrete by hand. This is usually done in a wheelbarrow; however, several companies have recently begun to sell modified tarps for this purpose.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
                   <p>Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment Cost and Use of equipment .</p>
                 </div> -->
               </div>
+              <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Concrete_mixer" target="_blank">Learn More</a>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            </div>
           </div>
         </article>
       </div>
@@ -94,7 +94,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Concrete-Mixer-Trucks.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -115,8 +115,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A concrete mixer (often mistakenly called a cement mixer) is a device that homogeneously combines cement, aggregate such as sand or gravel, and water to form concrete. A typical concrete mixer uses a revolving drum to mix the components. For smaller volume works portable concrete mixers are often used so that the concrete can be made at the construction site, giving the workers ample time to use the concrete before it hardens. An alternative to a machine is mixing concrete by hand. This is usually done in a wheelbarrow; however, several companies have recently begun to sell modified tarps for this purpose.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -124,8 +124,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Concrete_mixer" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

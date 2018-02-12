@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Pavers.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A paver (paver finisher, asphalt finisher, paving machine) is a piece of construction equipment used to lay asphalt on roads, bridges, parking lots and other such places. It lays the asphalt flat and provides minor compaction before it is compacted by a roller.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Paver_(vehicle)" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/bulldozer.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -20,7 +20,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__main">
         <article class="single-product">
           <div class="single-product__header">
-            <h3 class="single-product__title">Bull Dozers</h3>
+            <h3 class="single-product__title">Bulldozer</h3>
             <!-- <p class="single-product__price"><sup>$</sup><span>137</span><sup>00</sup></p> -->
           </div>
           <div class="single-product__main">
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A bulldozer is a crawler (continuous tracked tractor) equipped with a substantial metal plate (known as a blade) used to push large quantities of soil, sand, rubble, or other such material during construction or conversion work and typically equipped at the rear with a claw-like device (known as a ripper) to loosen densely compacted materials.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Bulldozer" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

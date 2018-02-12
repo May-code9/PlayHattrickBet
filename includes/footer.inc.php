@@ -50,10 +50,16 @@
                           <dt>Weekdays</dt>
                           <dd>8:00–20:00</dd>
                         </dl>
+                      </li>,
+                      <li>
+                        <dl class="list-terms-inline">
+                          <dt>Saturdays</dt>
+                          <dd>8:00–20:00</dd>
+                        </dl>
                       </li>
                       <li>
                         <dl class="list-terms-inline">
-                          <dt>Weekends</dt>
+                          <dt>Sundays</dt>
                           <dd>Closed</dd>
                         </dl>
                       </li>
@@ -102,7 +108,7 @@
               <div class="range range-20">
                 <div class="cell-sm-6 text-sm-left">
                   <!-- Rights-->
-                  <p class="rights"><span>Creator</span><span>&nbsp;&copy;&nbsp;</span><span id="copyright-year"></span>.&nbsp;<br class="veil-xs"><a class="link-underline" href="privacy-policy.php">Privacy Policy</a>
+                  <p class="rights"><span>Creator</span><span>&nbsp;&copy;&nbsp;</span><span id="copyright-year"></span>.&nbsp;<br class="veil-xs"><a class="link-underline" href="#">Privacy Policy</a>
                   </p>
                 </div>
                 <div class="cell-sm-6 text-sm-right">

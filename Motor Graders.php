@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Motor-Grader.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A grader, also commonly referred to as a road grader or a motor grader, is a construction machine with a long blade used to create a flat surface during the grading process. Typical models have three axles, with the engine and cab situated above the rear axles at one end of the vehicle and a third axle at the front end of the vehicle, with the blade in between. In certain countries, for example in Finland, almost every grader is equipped with a second blade that is placed in front of the front axle. Some construction personnel refer to the entire machine as "the blade".
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Grader" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

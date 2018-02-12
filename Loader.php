@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/track-loader.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A tracked loader is an engineering vehicle consisting of a tracked chassis with a loader for digging and loading material. The history of tracked loaders can be defined by three evolutions of their design. Each of these evolutions made the tracked loader a more viable and versatile tool in the excavation industry.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Tracked_loader" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -53,7 +53,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/wheel-loader.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -74,8 +74,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A Wheel loader is a type of tractor that has a front-mounted square wide bucket connected to the end of two booms (arms) to scoop up loose material from the ground, such as dirt, sand or gravel, and move it from one place to another without pushing the material across the ground. A loader is commonly used to move a stockpiled material from ground level and deposit it into an awaiting dump truck or into an open trench excavation.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -83,8 +83,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Loader_(equipment)" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

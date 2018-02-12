@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Dumper.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A dumper is a vehicle designed for carrying bulk material, often on building sites. Dumpers are distinguished from dump trucks by configuration: a dumper is usually an open 4-wheeled vehicle with the load skip in front of the driver, while a dump truck has its cab in front of the load. The skip can tip to dump the load; this is where the name "dumper" comes from. They are normally diesel powered. A towing eye is fitted for secondary use as a site tractor. Dumpers with rubber tracks are used in special circumstances and provide a more even distribution of weight compared to tires. Continuous tracks allow the operator to carry heavier payload on slick, snowy, or muddy surfaces, and are popular in some countries
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Dumper" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

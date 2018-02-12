@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Amphibious-Excavator.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    An amphibious excavator is a type of excavator that can perform dredging while afloat in shallow water. An amphibious excavator is better adapted for removing silty clay, clearing silted trenches, swampland operation, and shallow water operation than traditional barge-mounted dredgers.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Amphibious_excavator" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -53,7 +53,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Track-Excavators.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -74,8 +74,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    Excavators (hydraulic) are heavy construction equipment consisting of a boom, dipper (or stick), bucket and cab on a rotating platform known as the "house".[1] The house sits atop an undercarriage with tracks or wheels. They are a natural progression from the steam shovels and often mistakenly called power shovels.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -83,8 +83,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Excavator" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -94,7 +94,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Wheel-Excavators.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -115,8 +115,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    Excavators (hydraulic) are heavy construction equipment consisting of a boom, dipper (or stick), bucket and cab on a rotating platform known as the "house".[1] The house sits atop an undercarriage with tracks or wheels. They are a natural progression from the steam shovels and often mistakenly called power shovels.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -124,8 +124,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Excavator" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

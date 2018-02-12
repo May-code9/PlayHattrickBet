@@ -12,7 +12,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Fork-Lifts.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -33,8 +33,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A forklift (also called lift truck, fork truck, fork hoist, and forklift truck) is a powered industrial truck used to lift and move materials over short distances.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -42,8 +42,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Forklift" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -53,7 +53,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Cranes.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -74,8 +74,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A crane is a type of machine, generally equipped with a hoist rope, wire ropes or chains, and sheaves, that can be used both to lift and lower materials and to move them horizontally. It is mainly used for lifting heavy things and transporting them to other places. The device uses one or more simple machines to create mechanical advantage and thus move loads beyond the normal capability of a human. Cranes are commonly employed in the transport industry for the loading and unloading of freight, in the construction industry for the movement of materials, and in the manufacturing industry for the assembling of heavy equipment.
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -83,8 +83,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Crane_(machine)" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>
@@ -94,7 +94,7 @@ require_once("includes/header.inc.php");
       <div class="layout-horizontal__aside">
         <div class="reveal-flex">
           <!-- Thumb Zoe-->
-          <a class="">
+          <a class="zoom">
             <img class="thumb-zoe__image" src="images/Telescopic-Handlers.png" alt="" width="226" height="284"/>
           </a>
         </div>
@@ -115,8 +115,8 @@ require_once("includes/header.inc.php");
               </ul>
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="tabs-product-1">
-                  <p>
-                    Description Description Description Description Description Description Description Description
+                  <p class="just">
+                    A telescopic handler, also called a telehandler, teleporter, or boom lift, is a machine widely used in agriculture and industry. It is somewhat like a forklift but has a boom (Telescopic cylinder), making it more a crane than a forklift, with the increased versatility of a single telescopic or articulating boom that can extend forwards and upwards from the vehicle. On the end of the boom the operator can fit one of several attachments, such as a bucket, pallet forks, muck grab, or winch
                   </p>
                 </div>
                 <!-- <div class="tab-pane fade" id="tabs-product-2">
@@ -124,8 +124,8 @@ require_once("includes/header.inc.php");
                 </div> -->
               </div>
             </div>
-            <!-- <div class="group group-buttons group-middle"><a class="button button-darker" href="../equipment.php">Go Back to Equipment</a>
-            </div> -->
+            <div class="group group-buttons group-middle"><a class="button button-darker" href="https://en.wikipedia.org/wiki/Telescopic_handler" target="_blank">Learn More</a>
+            </div>
           </div>
         </article>
       </div>

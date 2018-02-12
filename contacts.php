@@ -24,7 +24,7 @@
             <div class="layout-bordered__main text-center">
               <div class="layout-bordered__main-inner">
                 <h3>Get in Touch</h3>
-                <p>We are available 24/7 by fax, e-mail or by phone. You can also use our quick contact form to ask a question about our services and projects.</p>
+                <p>We are available 24/7 by e-mail or by phone. You can also use our quick contact form to ask a question about our services and projects.</p>
                 <!-- RD Mailform-->
                 <form class="rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                   <div class="range range-sm-bottom range-20">
@@ -64,7 +64,7 @@
                 <p class="heading-8">Get social </p>
                 <ul class="list-inline-xs">
                   <li><a class="icon icon-sm icon-default fa fa-facebook" href="https://web.facebook.com/Okisokariari-Sons-Nig-Limited-345780822571400/" target="_blank"></a></li>
-                  <li><a class="icon icon-sm icon-default fa fa-twitter" href="https://www.instagram.com/okisokariari/" target="_blank"></a></li>
+                  <li><a class="icon icon-sm icon-default fa fa-instagram" href="https://www.instagram.com/okisokariari/" target="_blank"></a></li>
                 </ul>
               </div>
               <div class="layout-bordered__aside-item">
