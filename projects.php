@@ -25,7 +25,7 @@ require_once("includes/header.inc.php");
                 <li><a href="#tabs-production-3" data-toggle="tab">Obukofia Internal Roads</a></li>
                 <li><a href="#tabs-production-4" data-toggle="tab">Rainbow Town</a></li>
                 <li><a href="#tabs-production-5" data-toggle="tab">Recreational Centre</a></li>
-                <!-- <li><a href="#tabs-production-6" data-toggle="tab">Saipem Base</a></li> -->
+                <li><a href="#tabs-production-6" data-toggle="tab">Saipem Base</a></li>
                 <li><a href="#tabs-production-7" data-toggle="tab">Town MKT</a></li>
               </ul>
             </div>
@@ -429,7 +429,7 @@ require_once("includes/header.inc.php");
             </div>
           </div>
         </div>
-        <!--<div class="tab-pane fade" id="tabs-production-6">
+        <div class="tab-pane fade" id="tabs-production-6">
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main">
               <h4>Saipem Base</h4>
@@ -545,7 +545,7 @@ require_once("includes/header.inc.php");
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
         <div class="tab-pane fade" id="tabs-production-7">
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main just">

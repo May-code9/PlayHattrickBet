@@ -128,7 +128,23 @@
                         </li>
                       </ul>
                     </li>
-                    <li class="<?php if(isset($projects)) echo $projects ?>"><a href="projects.php">Projects</a>
+                    <li class="<?php if(isset($projects)) echo $projects ?>"><a href="#">Projects</a>
+                      <ul class="rd-navbar-dropdown">
+                        <!-- <li><a href="OKEHI-NDASHI ROAD PROJECT.php">CONSTRUCTION OF OKEHI-NDASHI ROAD PROJECT</a>
+                        </li> -->
+                        <li><a href="ring road project.php">CONSTRUCTION OF OBOKOFIA INTERNAL/RING ROAD PROJECT- OHAJI/EGBEMA LGA, IMO STATE</a>
+                        </li>
+                        <li><a href="Sports complex.php">CONSTRUCTION OF FOOTBALL COLLEGE OF EXCELLENCE, ETCHE SPORTS COMPLEX</a>
+                        </li>
+                        <li><a href="Saipem base.php">CONSTRUCTION OF SAIPEM BASE ROAD</a>
+                        </li>
+                        <li><a href="Naoc location.php">NAOC LOCATION PROJECTS</a>
+                        </li>
+                        <li><a href="Rainbow town.php">RAINBOW TOWN PROJECT-CIVIL INFRASTRUCTURE</a>
+                        </li>
+                        <li><a href="Market.php">RECONSTRUCTION OF ULTRA MODERN NEW LAYOUT MARKET PROJECT, PORTHARCOURT</a>
+                        </li>
+                      </ul>
                     </li>
                     <li class="<?php if(isset($equipments)) echo $equipments ?>"><a href="#">Equipment</a>
                       <ul class="rd-navbar-dropdown">
