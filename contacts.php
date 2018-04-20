@@ -26,12 +26,12 @@
                 <h3>Get in Touch</h3>
                 <p>We are available 24/7 by e-mail or by phone. You can also use our quick contact form to ask a question about our services and projects.</p>
                 <!-- RD Mailform-->
-                <form class="rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                <form class="rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="email.php">
                   <div class="range range-sm-bottom range-20">
                     <div class="cell-sm-6">
                       <div class="form-wrap">
-                        <input class="form-input" id="contact-first-name" type="text" name="first-name" data-constraints="@Required">
-                        <label class="form-label" for="contact-first-name">First name</label>
+                        <input class="form-input" id="contact-first-name" type="text" name="full_name" data-constraints="@Required">
+                        <label class="form-label" for="contact-first-name">Full name</label>
                       </div>
                     </div>
                     <div class="cell-sm-6">

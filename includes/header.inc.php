@@ -60,7 +60,7 @@
                   <li>
                     <div class="unit unit-spacing-xxs unit-horizontal">
                       <div class="unit__left"><span class="text-primary">Phone:</span></div>
-                      <div class="unit__body"><a href="callto:#">+2348086666010 | +2348086666060</a></div>
+                      <div class="unit__body"><a href="callto:#">+2348086666072 | +2348086666073</a></div>
                     </div>
                   </li>
                 </ul>
@@ -72,6 +72,7 @@
               <!-- RD Navbar Panel -->
               <div class="rd-navbar-panel">
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                <!-- <button class="rd-navbar-toggle" type="button" data-toggle="collapse" data-rd-navbar-toggle=".rd-navbar-nav-wrap" data-target=".rd-navbar-nav-wrap" aria-controls="rd-navbar-nav-wrap" aria-expanded="false" aria-label="Toggle navigation"><span></span></button> -->
                 <!-- RD Navbar Brand-->
                 <div class="rd-navbar-brand"><a class="brand" href="index.php">
                   <div class="brand__name"><img src="images/logo-141x65.png" alt="" width="141" height="65"/>

@@ -12,11 +12,11 @@
                     <h4 class="box-decorated__title">Call Us Now</h4>
                     <dl class="list-terms-inline">
                       <dt>Phone #1</dt>
-                      <dd><a href="callto:#">+2348086666010 </a></dd>
+                      <dd><a href="callto:#">+2348086666072 </a></dd>
                     </dl>
                     <dl class="list-terms-inline">
                       <dt>Phone #2</dt>
-                      <dd><a href="callto:#">+2348086666060</a></dd>
+                      <dd><a href="callto:#">+2348086666073</a></dd>
                     </dl>
                     <dl class="list-terms-inline">
                       <dt>Postal Address</dt>
@@ -48,13 +48,13 @@
                       <li>
                         <dl class="list-terms-inline">
                           <dt>Weekdays</dt>
-                          <dd>8:00–20:00</dd>
+                          <dd>8:00–18:00</dd>
                         </dl>
                       </li>,
                       <li>
                         <dl class="list-terms-inline">
                           <dt>Saturdays</dt>
-                          <dd>8:00–20:00</dd>
+                          <dd>8:00–18:00</dd>
                         </dl>
                       </li>
                       <li>
@@ -69,7 +69,7 @@
                 <div class="cell-xs-10 cell-sm-6 cell-md-4"><a class="brand" href="index.php">
                     <div class="brand__name"><img src="images/logo-141x65_2.png" alt="" width="141" height="65"/>
                     </div></a>
-                  <p class="text-small">Building and Civil Engineering Contractors.</p>
+                  <p class="text-small">ENGINEERING.PROCUREMENT.CONSTRUCTION</p>
                 </div>
                 <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <h4 class="heading-decorated">Useful Links</h4>

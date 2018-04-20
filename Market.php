@@ -14,23 +14,27 @@ require_once("includes/header.inc.php");
       <!-- Section Header-->
       <div class="section__header">
         <h4>RECONSTRUCTION OF ULTRA MODERN NEW LAYOUT MARKET PROJECT</h4>
-        <p class="just">The reconstruction of Town market in Port Harcourt was awarded to us by Rivers State Government. This included the building of open and locked shops including banking halls and police station. The market parking spaces and the walk ways were upgraded with interlocking stone pavement and concrete lined drainages. Water 100,000 litre capacity water supply system, fire fighting system and waste control units were also constructed. The project has added value to the traders and customers who have since acquired the modern market facility.</p>
+        <p class="just">The town market project was proposed and awarded to OKI NIG Ltd by the Rivers State Govt , the project was to uplift the status of the market after several infernos with an edifice and structural stable structure against such infernos . Thanks roof slab are built of concrete slabs which has a high rating against fire.</p>
       </div>
       <!-- Tab panes -->
       <div class="tab-content">
         <div class="tab-pane fade in active" id="tabs-production-7">
           <div class="layout-horizontal layout-horizontal_md-reverse">
             <div class="layout-horizontal__main just">
-              <h4>Town MKT</h4>
-              <p>RECONSTRUCTION OF ULTRA MODERN TOWN MARKET BOROKIRI </p>
+              <h4>RECONSTRUCTION OF ULTRA MODERN TOWN MARKET BOROKIRI </h4>
               <ul class="list-style-pad">
-                <li class="list-allow">4 Banks</li>
-                <li class="list-allow">4 Toilets (Male & Female)</li>
-                <li class="list-allow">50,000 & 100,000 litres water tank Capacities</li>
-                <li class="list-allow">Firefighting facilities (Hose reels & Hydrants, Smoke detectors)</li>
-                <li class="list-allow">Fire Station Building</li>
-                <li class="list-allow">Paved Environment & Parking Lots</li>
-                <li class="list-allow">Waste Building</li>
+                <li class="list-allow">792 lock-up stores</li>
+                <li class="list-allow">272 Open stores</li>
+                <li class="list-allow">4 Bank Halls</li>
+                <li class="list-allow">4 Toilet Buildings (8 Male & 8 Female per Building)</li>
+                <li class="list-allow">50,000 litres of over head tank (domestic)</li>
+                <li class="list-allow">100,000 litres of ground tank (fire fighting)</li>
+                <li class="list-allow">1,000 capacity car park</li>
+                <li class="list-allow">2 Fire fighting facilities (Hose reels & Hydrants, Smoke detectors)</li>
+                <li class="list-allow">4 Fire Hydrants</li>
+                <li class="list-allow">Fire service building (2 storey and pent roof)</li>
+                <li class="list-allow">Smoke detector in all stores</li>
+                <li class="list-allow">2 Waste disposal bays</li>
               </ul>
               <a class="button button-primary" href="contacts.php">Contact OKI</a>
             </div>
