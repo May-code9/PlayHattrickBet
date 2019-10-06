@@ -12,12 +12,6 @@ $m->Password = 'Ma_yo_wa_Oye_wale1';
 $m->SMTPSecure = 'ssl';
 $m->Port = 465;
 
-$m->From = 'ajayi.mayowa@ronchoenergy.com';
-$m->FromName = 'Mayowa Ajayi';
-$m->addReplyTo('tech.support@ronchoenergy.com', 'Reply Address');
-$m->addAddress('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
-//$m->addCC('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
-//$m->addBCC('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
 
 if(isset($_POST['email'])) {
   // validation expected data exists
@@ -50,7 +44,7 @@ if(isset($_POST['email'])) {
       died($error_message);
     }
 
-    //$email_message = "Form details below."."<br>";
+    $email_message = "";
 
     function clean_string($string) {
       $bad = array("content-type","bcc:","to:","cc:","href");
@@ -64,8 +58,22 @@ if(isset($_POST['email'])) {
     $email_message .= "<strong>Comment:</strong>"."<i>This Message was sent from the contact on okisokariari.com</i>";
 }
 
+$m->From = clean_string($email_from);
+$m->FromName = $full_name;
+$m->addReplyTo(clean_string($email_from), 'Reply Address');
+$m->addAddress('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
+//$m->addCC('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
+//$m->addBCC('ajayi.mayowa@ronchoenergy.com', 'Mayowa Ajayi');
 $m->Subject = 'Contact email';
 $m->Body = $email_message;
 $m->AltBody = 'This is the body of an email';
 
 var_dump($m->send());
+?>
+
+<div class="col-md-10 col-md-push-1" style="padding-left:0px">
+  <div class = "alert alert-success alert-dismissable">
+    <i class="fa fa-check"></i>
+    <h4>Message sent</h4>
+  </div>
+</div>

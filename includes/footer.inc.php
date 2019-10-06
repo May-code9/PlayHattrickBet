@@ -9,88 +9,92 @@
                 <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <!-- Box decorated-->
                   <article class="box-decorated">
-                    <h4 class="box-decorated__title">Call Us Now</h4>
+                    <h4 class="box-decorated__title">Our Offices</h4>
+                    <p>
+                      <span style="color:#fff; font-size:17px; text-align: justify">HEAD OFFICE:</span> Plot 83, Trans Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria.<br><br>
+                      <span style="color:#fff; font-size:17px; text-align: justify">PORT HARCOURT BRANCH OFFICE:</span> 8 Ikwere Road, Port Harcourt, Rivers State, Nigeria.<br><br>
+                      <span style="color:#fff; font-size:17px; text-align: justify">LAGOS LIAISON OFFICE:</span> 99 Awolowo Road, Ikoyi South, Ikoyi, Lagos State.
+                    </p>
+                  </article>
+                </div>
+                <div class="cell-xs-10 cell-sm-6 cell-md-4">
+                  <!-- Box decorated-->
+                  <article class="box-decorated">
+                    <h4 class="box-decorated__title">Contact Us Now</h4>
                     <dl class="list-terms-inline">
-                      <dt>Phone #1</dt>
+                      <dt style="color: #fff; font-size:17px">PHONE #1</dt>
                       <dd><a href="callto:#">+2348086666072 </a></dd>
-                    </dl>
+                    </dl><br>
                     <dl class="list-terms-inline">
-                      <dt>Phone #2</dt>
+                      <dt style="color: #fff; font-size:17px">PHONE #2</dt>
                       <dd><a href="callto:#">+2348086666073</a></dd>
-                    </dl>
+                    </dl><br>
                     <dl class="list-terms-inline">
-                      <dt>Postal Address</dt>
+                      <dt style="color: #fff; font-size:17px">POSTAL ADDRESS</dt>
                       <dd><a href="#">P. O. Box 83, Port Harcourt, Rivers State, Nigeria</a></dd>
-                    </dl>
+                    </dl><br>
                     <dl class="list-terms-inline">
-                      <dt>Email</dt>
+                      <dt style="color: #fff; font-size:17px">EMAIL</dt>
                       <dd><a href="mailto:#">info@okisokariari.com</a></dd>
                     </dl>
+                    <br/>
+                    <br/>
                   </article>
                 </div>
                 <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <!-- Box decorated-->
                   <article class="box-decorated">
-                    <h4 class="box-decorated__title">Our Offices</h4>
-                    <p><span style="color:black; font-size:17px">Head Office:</span> Plot 83, Trans Amadi Industrial Layout, Port Harcourt, Rivers State, Nigeria</p>
-                    <p><span style="color:black; font-size:17px">Port Harcourt Branch Office:</span> 8 Ikwere Road, Port Harcourt, Rivers State, Nigeria</p>
-                  </article>
-                </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <!-- Box decorated-->
-                  <article class="box-decorated">
-                    <h4 class="box-decorated__title">Our Offices</h4>
-                    <p><span style="color:black; font-size:17px">Lagos Liaison Office:</span> 99 Awolowo Road, Ikoyi South, Ikoyi, Lagos State.</p>
-
-                    <br>
-
+                    <h4 class="box-decorated__title">Working Days</h4>
                     <ul class="list-inline-0">
                       <li>
                         <dl class="list-terms-inline">
-                          <dt>Weekdays</dt>
-                          <dd>8:00–18:00</dd>
-                        </dl>
-                      </li>,
-                      <li>
-                        <dl class="list-terms-inline">
-                          <dt>Saturdays</dt>
+                          <dt style="color: #fff">WEEKDAYS</dt>
                           <dd>8:00–18:00</dd>
                         </dl>
                       </li>
+                    </ul><br>
+                    <ul>
                       <li>
                         <dl class="list-terms-inline">
-                          <dt>Sundays</dt>
+                          <dt style="color: #fff">SATURDAYS</dt>
+                          <dd>8:00–18:00</dd>
+                        </dl>
+                      </li>
+                    </ul><br>
+                    <ul>
+                      <li>
+                        <dl class="list-terms-inline">
+                          <dt style="color: #fff">SUNDAYS</dt>
                           <dd>Closed</dd>
                         </dl>
                       </li>
                     </ul>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
                   </article>
                 </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4"><a class="brand" href="index.php">
+                <div class="cell-xs-10 cell-sm-6 cell-md-12">
+                  <ul class="list-nav" style="max-width: none">
+                    <li style="width:16%"><a href="index.php">Home</a></li>
+                    <li style="width:16%"><a href="about-us.php">About us</a>
+                    </li>
+                    <li style="width:16%"><a href="code.php">Code of Practice</a>
+                    </li>
+                    <li style="width:16%"><a href="products.php">Products</a>
+                    </li>
+                    <li style="width:16%"><a href="#">Media</a></li>
+                    <li style="width:16%"><a href="careers.php">Careers</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="cell-xs-10 cell-sm-6 cell-md-12" style="text-align: center"><a class="brand" href="index.php">
                     <div class="brand__name"><img src="images/logo-141x65_2.png" alt="" width="141" height="65"/>
                     </div></a>
-                  <p class="text-small">ENGINEERING.PROCUREMENT.CONSTRUCTION</p>
+                  <p class="" style="font-size: 13px">ENGINEERING. PROCUREMENT. CONSTRUCTION</p>
                 </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <h4 class="heading-decorated">Useful Links</h4>
-                  <ul class="list-nav">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about-us.php">About us</a>
-                    </li>
-                    <li><a href="code.php">Code of Practice</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="cell-xs-10 cell-sm-6 cell-md-4">
-                  <h4 class="heading-decorated">Useful Links</h4>
-                  <ul class="list-nav">
-                    <li><a href="products.php">Products</a>
-                    </li>
-                    <li><a href="#">Media</a></li>
-                    <li><a href="careers.php">Careers</a>
-                    </li>
-                  </ul>
-                </div>
+
                 <!-- <div class="cell-xs-10 cell-sm-6 cell-md-4">
                   <h4 class="heading-decorated">Subscribe Now</h4>
                   <form class="rd-mailform rd-mailform_sm rd-mailform_inline" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">

@@ -87,10 +87,12 @@
                   <div class="unit__left"><span class="icon icon-sm icon-primary material-icons-location_on"></span></div>
                   <div class="unit__body"><a href="#">Head Office: <br>Plot 83, Tran Amadi Industrial Layout, <br> Port Harcourt, Rivers State, Nigeria.</a></div>
                 </div>
+                <br>
                 <div class="unit unit-horizontal unit-spacing-xxs">
                   <div class="unit__left"><span class="icon icon-sm icon-primary material-icons-location_on"></span></div>
                   <div class="unit__body"><a href="#">Port Harcourt Branch Office: <br>8, Ikwere Road, <br> Port Harcourt, Rivers State, Nigeria.</a></div>
                 </div>
+                <br>
                 <div class="unit unit-horizontal unit-spacing-xxs">
                   <div class="unit__left"><span class="icon icon-sm icon-primary material-icons-location_on"></span></div>
                   <div class="unit__body"><a href="#">Lagos Liaison Office: <br>99, Awolowo Road, <br> Ikoyi South, Ikoyi, Lagos State, Nigeria.</a></div>

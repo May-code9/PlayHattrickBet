@@ -133,6 +133,8 @@
                       <ul class="rd-navbar-dropdown">
                         <!-- <li><a href="OKEHI-NDASHI ROAD PROJECT.php">CONSTRUCTION OF OKEHI-NDASHI ROAD PROJECT</a>
                         </li> -->
+                          <li><a href="project-list.php">LIST OF OUR ONGOING AND RECENTLY CONCLUDED PROJECTS</a>
+                          </li>
                         <li><a href="ring road project.php">CONSTRUCTION OF OBOKOFIA INTERNAL/RING ROAD PROJECT- OHAJI/EGBEMA LGA, IMO STATE</a>
                         </li>
                         <li><a href="Sports complex.php">CONSTRUCTION OF FOOTBALL COLLEGE OF EXCELLENCE, ETCHE SPORTS COMPLEX</a>

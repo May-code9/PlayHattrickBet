@@ -62,8 +62,8 @@ require_once("includes/header.inc.php")
 
       <section class="section section-md bg-white" style="padding-bottom:0px">
         <div class="container-fullwidth grid-system-outline grid-demonstration">
-          <h4 class="text-center">Who We Are</h4>
-          <div class="row row-no-gutter just-black">
+          <h2 class="text-center">Who we are.</h2>
+          <div class="row row-no-gutter just-black" style="margin-top:5px">
             <div class="col-xs-12 col-md-6">
               <!-- <h5>1/2</h5> -->
               <p>O.K. ISOKARIARI & SONS (NIGERIA) LIMITED is a leading Engineering, Procurement and Construction company with over 45 years of work experience. We are known for our pragmatic value delivery, which flows from our people centric approach, committed professionals and prudent management.</p>
@@ -84,7 +84,7 @@ require_once("includes/header.inc.php")
               <div class="cell-sm-12 cell-md-6">
                 <div class="section-md shell-fluid-cell">
                   <div class="box-centered box-width-1" style="color: black; text-align:justify">
-                    <h2><span>Experience</span><span class="object-decorated object-decorated_inline" style="max-width: 125px;"><span class="object-decorated__divider"></span><span class="heading-5">since 1972</span></span></h2>
+                    <h2><span>Experience</span><span class="object-decorated object-decorated_inline" style="max-width: 125px;"><span class="object-decorated__divider"></span><span class="heading-5">Since 1972</span></span></h2>
                     <p>At O.K. ISOKARIARI & SONS (NIGERIA) LIMITED, we never stop working on a better way.  From how we communicate with our customers to how we research and develop new approaches.<br>On the beams of quality we are building dreams. We look forward to serving you for the approaching years.</p>
                     <div class="group-md group-middle button-group">
                       <a class="button button-darker" href="contacts.php">Contact Us</a>
